@@ -2,3 +2,5 @@ Nama	: Acep Ega
 NPM	: 241111040
 Nama    : Edo Rizki Firnando
 NPM     : 241111043
+Nama	: Salsa Firdausy
+NPM	: 241111031
