@@ -1,2 +1,1 @@
-Nama	: Acep Ega
-NPM	: 241111040
+Langkah awal menuju masa depan lebih baik
